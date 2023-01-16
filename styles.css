@@ -1,3 +1,13 @@
 /* your code */
-border:1px solid black;
+table{border:1px solid black;
 border-collapse:collapse;
+		   }
+th,td{width:600px ;
+	  text-align:center;
+	 }
+thead{
+	background-color: yellow;
+}
+t1{
+	background-color:pink;
+}
